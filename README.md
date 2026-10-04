@@ -5,6 +5,8 @@ Hello! This is my first plugin. It's designed for people like me who don't have 
 I have no coding knowledge, so I referenced plugins such as Fake Iron Icon, Quest Helper and Dink, as well as mejrs's map for region ID's along with Claude AI to make this.
 Thank you to TheStonedTurtle for giving me the idea to reference other plugins when I asked him for help.
 
+<img width="800" height="450" alt="hcimsc" src="https://github.com/user-attachments/assets/3d77b8a2-6b32-4ae1-a69d-50b7b741ca1c" />
+
 The following areas are implemented, but may be inaccurate:
 
 - Player Owned Homes
