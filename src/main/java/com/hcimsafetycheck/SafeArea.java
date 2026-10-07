@@ -52,7 +52,8 @@ public enum SafeArea {
 	// Resurrection-used varbit 4565 and the region IDs match the Dink plugin (pajlads/DinkPlugin)
 	ZULRAH("Zulrah", Set.of(9007, 9008), true, null,
 			client -> client.getVarbitValue(VarbitID.WESTERN_ELITE_REWARD) > 0
-					&& client.getVarbitValue(4565) == 0);
+					&& client.getVarbitValue(4565) == 0),
+	PETE_KAYER("Pete Kayer PVP Tutorial", Set.of(10588, 11100), true);
 	// PvM Arena may be wrong, I don't have an account with access to verify.
 	private final String displayName;
 	private final Set<Integer> regionIds;
