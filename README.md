@@ -10,18 +10,14 @@ Thank you to TheStonedTurtle for giving me the idea to reference other plugins w
 The following areas are implemented, but may be inaccurate:
 
 - Player Owned Homes
-- Fight Pit (there's a single tile directly outside the pit, next to the fire barrier inside the waiting room that will register as safe.)
 - Camelot Training Room
 - Magic Training Arena bone zone
 - Galvek replay (only counts as safe once Dragon Slayer II is completed)
 - Glough MM2 replay (only counts as safe once Monkey Madness II is completed)
-- Chambers of Xeric
 - PVM Arena
 - Zulrah (with Elite Diary resurrection) - The diary and daily resurrection checks are based on how Dink detects them. I do not have an account with the Elite Western Provinces diary completed, so I have not been able to test this one. If someone would be willing to test, feel free to open an issue on my github to let me know.
 - Dream World during Lunar Diplomacy (only counts as safe while the quest is not completed)
 - Koschei the Deathless during The Fremennik Trials (only counts as safe while the quest is not completed)
-
-My HCIM RSN is 2d8, so feel free to laugh at me if you see me around, or when I die to a tree!
 
 ## Credits
 
