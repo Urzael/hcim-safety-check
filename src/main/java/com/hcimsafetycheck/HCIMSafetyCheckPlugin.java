@@ -1,4 +1,5 @@
 package com.hcimsafetycheck;
+
 import com.google.inject.Provides;
 import java.awt.image.BufferedImage;
 import java.util.Arrays;
@@ -24,6 +25,7 @@ import java.awt.Color;
 import net.runelite.client.events.ConfigChanged;
 import net.runelite.client.ui.overlay.infobox.InfoBox;
 import net.runelite.client.ui.overlay.infobox.InfoBoxManager;
+
 @Slf4j
 @PluginDescriptor(
 /*
@@ -142,7 +144,7 @@ public class HCIMSafetyCheckPlugin extends Plugin
 	@Subscribe
 	public void onBeforeRender(BeforeRender event)
 	{
-		updateChatbox(); // prevents flicker while typing
+		updateChatbox();
 	}
 
 	private void updateChatbox()
